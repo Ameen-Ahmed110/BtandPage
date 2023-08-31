@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BtandPage/static/css/main.81072755.css",
+    "main.js": "/BtandPage/static/js/main.82da83b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BtandPage/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/BtandPage/index.html",
+    "main.81072755.css.map": "/BtandPage/static/css/main.81072755.css.map",
+    "main.82da83b5.js.map": "/BtandPage/static/js/main.82da83b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BtandPage/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81072755.css",
+    "static/js/main.82da83b5.js"
+  ]
+}
